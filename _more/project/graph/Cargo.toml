@@ -1,0 +1,15 @@
+[package]
+name = "graph"
+version = "0.1.4"
+authors = ["Aram Ebtekar"]
+edition = "2018"
+
+description = "Common algorithms and data structures for programming contests"
+repository = "https://github.com/EbTech/rust-algorithms"
+readme = "README.md"
+keywords = ["competitive", "programming", "codeforces"]
+categories = ["algorithms", "data-structures"]
+license = "MIT"
+
+
+

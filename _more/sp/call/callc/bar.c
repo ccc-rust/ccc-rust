@@ -1,0 +1,3 @@
+void bar() {
+  puts("bar");
+}

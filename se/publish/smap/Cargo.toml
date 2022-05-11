@@ -1,0 +1,12 @@
+[package]
+name = "smap"
+version = "0.3.0"
+authors = ["ccckmit <ccckmit@gmail.com>"]
+edition = "2018"
+description = "Simple-Map: HashMap for easy to use."
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/cccrust/smap/"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
